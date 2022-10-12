@@ -1457,7 +1457,7 @@ dependencies = [
 [[package]]
 name = "vultrapi"
 version = "0.1.0"
-source = "git+https://github.com/jdelgadoalfonso/vultrapi-rs.git#bbadad5c17656d636a3efe33f2c57a99358cdaf7"
+source = "git+https://github.com/galgus/vultrapi-rs.git?branch=old-master#d466129edadf0b0b0fce3789c9d703e863caff6b"
 dependencies = [
  "clap 2.33.0 (registry+https://github.com/rust-lang/crates.io-index)",
  "failure 0.1.6 (registry+https://github.com/rust-lang/crates.io-index)",
